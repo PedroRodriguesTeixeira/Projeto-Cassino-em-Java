@@ -18,3 +18,5 @@ Importe no seu IDE: Recomendado para NetBeans.
 Execute o projeto:
 
 Inicie a classe principal cassino.java.
+👨‍💻 Autores
+Desenvolvido por Luís Medrado, Raul Moreira, Pedro Teixeira, Otton Simão, Matheus Lopes, Micael Martins, Matheus Sales, Samuel Rodrigues.
